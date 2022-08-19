@@ -1,0 +1,11 @@
+D:\myc\chart\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\myc\chart\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\myc\chart\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\myc\chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\myc\chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\myc\chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\myc\chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\myc\chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\myc\chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\myc\chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\myc\chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
